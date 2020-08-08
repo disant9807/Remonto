@@ -1,0 +1,126 @@
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\Labo4ka7.exe.config
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\Labo4ka7.exe
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\Labo4ka7.pdb
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\EntityFramework.dll
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\EntityFramework.xml
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.csprojAssemblyReference.cache
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Properties.Resources.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.csproj.GenerateResource.cache
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.csproj.CoreCompileInputs.cache
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.csproj.CopyComplete
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.exe
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.pdb
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Form1.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.AddClient.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_Clienta.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.AddMacRef.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_MachineReferBook.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.AddUser.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.AddMachine.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_Machine.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.MacRefForMac.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.AddUslugi.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_Uslug.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Add_Repairs.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.viboruSLUG.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_Repairs.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Analiz_Client.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Analiz_Machine.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Analiz_Repairs.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.KatochkaPolzovytelya.resources
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\x86\e_sqlite3.dll
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\x64\e_sqlite3.dll
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\SQLite.CodeFirst.dll
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\System.Data.SQLite.dll
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\System.Data.SQLite.xml
+C:\Users\dspic\Documents\Visual Studio 2017\Projects\Labo4ka7\Labo4ka7\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\x86\e_sqlite3.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\x64\e_sqlite3.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\Labo4ka7.exe.config
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\Labo4ka7.exe
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\Labo4ka7.pdb
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\EntityFramework.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\SQLite.CodeFirst.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\System.Data.SQLite.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\EntityFramework.xml
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\System.Data.SQLite.xml
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.csprojAssemblyReference.cache
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.AddClient.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.AddMachine.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.AddMacRef.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.AddUser.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.AddUslugi.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Add_Repairs.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Analiz_Client.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Analiz_Machine.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Analiz_Repairs.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Form1.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_Machine.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_Repairs.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_Uslug.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_Clienta.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_MachineReferBook.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.KatochkaPolzovytelya.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.MacRefForMac.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.Properties.Resources.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.viboruSLUG.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.csproj.GenerateResource.cache
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.csproj.CoreCompileInputs.cache
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.csproj.CopyComplete
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.exe
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7\Labo4ka7\obj\Debug\Labo4ka7.pdb
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\x86\e_sqlite3.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\x64\e_sqlite3.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\EntityFramework.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\SQLite.CodeFirst.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\System.Data.SQLite.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\EntityFramework.xml
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\System.Data.SQLite.xml
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.csprojAssemblyReference.cache
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.AddClient.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.AddMachine.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.AddMacRef.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.AddUser.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.AddUslugi.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.Add_Repairs.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.Analiz_Client.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.Analiz_Machine.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.Analiz_Repairs.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.Form1.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_Machine.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_Repairs.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_Uslug.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_Clienta.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.Kartochka_MachineReferBook.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.KatochkaPolzovytelya.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.MacRefForMac.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.viboruSLUG.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.csproj.GenerateResource.cache
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.csproj.CoreCompileInputs.cache
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Labo4ka7.csproj.CopyComplete
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\Remonto.exe.config
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\Remonto.exe
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\bin\Debug\Remonto.pdb
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Remonto.Properties.Resources.resources
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Remonto.exe
+C:\Users\dspic\YandexDisk\Учеба\программирование\Патент\Проект программы\Labo4ka7 — копия\Labo4ka7\obj\Debug\Remonto.pdb
